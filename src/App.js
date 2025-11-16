@@ -201,7 +201,7 @@ function App() {
             title="LocalLens"
             description="A local event and experience finder with AI driven suggestions that allows users to discover and rate local businesses in real time."
             tech={['Next.js', 'Node.js', 'TailwindCSS', 'OpenAI API']}
-            githubLink="https://github.com/pr3stin/DrinkRatingApp"
+            githubLink="https://github.com/Pr3stin/LocalLens"
             demoLink=""
             image={llScreenshot}
           />
